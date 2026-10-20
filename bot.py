@@ -4,7 +4,7 @@ import sqlite3
 import re
 
 # ----------------- CONFIGURATION -----------------
-BOT_TOKEN = "8740824185:AAFjJA4DKk2jgYS_dCOQePr4UxX0VxqV6aU"  # Client token
+BOT_TOKEN = "8740824185:AAFjJA4DKk2jgYS_dCOQePr4UxXOvxqV6aU"  # Client token
 REQUIRED_CHANNEL = "@your_channel_username"  # Client ka channel username (@ ke sath)
 ADMIN_ID = 8842433415  # Client (DIXIT) Admin ID
 UPINUMBER_OR_LINK = "shivamshrivastava98329@okaxis"  # Updated UPI ID
